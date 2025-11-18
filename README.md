@@ -110,9 +110,12 @@ Perguntas válidas:
 
 # Passo a passo da criação do copilot 🧪
 
-- Criação de recurso no AI Foundry;
-- Criação do projeto;
-- Inclusão de prompt, descrição e documento; 
+- Criação de recurso no AI Foundry
+- [Criação do projeto;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%201.png)
+- [Escolha do agente;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%202.png)
+- [Inclusão de  documento;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%204.png)
+- [Inclusão de prompt e descrição;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%205.png)-
+-
 - Testando o Copilot
 
   # Referências
