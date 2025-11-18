@@ -114,9 +114,10 @@ Perguntas válidas:
 - [Criação do projeto;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%201.png)
 - [Escolha do agente;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%202.png)
 - [Inclusão de  documento;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%204.png)
-- [Inclusão de prompt e descrição;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%205.png)-
--
-- Testando o Copilot
+- [Documento;](https://github.com/viajagabs/talent-pilot/blob/main/Relocation%20-%202026.pdf)
+- [Inclusão de prompt e descrição;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%205.png)
+- [Testando o copilot](https://github.com/viajagabs/talent-pilot/blob/main/teste%203%20ai.png)
+
 
   # Referências
 
