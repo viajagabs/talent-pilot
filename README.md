@@ -100,7 +100,7 @@ Perguntas válidas:
 
 “Existem mais de 2 vagas de Software Engineer II?”
 
-# Boas Práticas ao Usar o Copilot
+# Boas Práticas ao Usar o Copilot ✍️
 
 - Faça perguntas diretas e objetivas;
 
@@ -110,7 +110,7 @@ Perguntas válidas:
 
 # Passo a passo da criação do copilot 🧪
 
-- Criação de recurso no AI Foundry
+- Criação de recurso no AI Foundry;
 - [Criação do projeto;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%201.png)
 - [Escolha do agente;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%202.png)
 - [Inclusão de  documento;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%204.png)
@@ -119,8 +119,8 @@ Perguntas válidas:
 - [Testando o copilot](https://github.com/viajagabs/talent-pilot/blob/main/teste%203%20ai.png)
 
 
-  # Referências
-
+  # Referências 📚
+  
   - [AI Foundry na prática](https://github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge/blob/main/Aula%201/Azure_AI_Foundry_na_Pratica.md)
 
   
