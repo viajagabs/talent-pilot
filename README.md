@@ -18,7 +18,7 @@ Este copilot foi desenvolvido para:
 
 Este copilot foi criado no AI Foundry com o objetivo de responder perguntas sobre vagas disponíveis no processo de Relocation 2026 da empresa, usando exclusivamente os dados contidos na planilha:
 
-[Relocation – 2026.csv](https://github.com/viajagabs/talent-pilot/blob/main/Relocation%20-%202026.pdf)
+[Relocation – 2026.pdf](https://github.com/viajagabs/talent-pilot/blob/main/Relocation%20-%202026.pdf)
 
 O modelo utiliza RAG (Retrieval-Augmented Generation) para buscar informações reais da planilha, garantindo respostas objetivas, confiáveis e sem alucinações.
 
