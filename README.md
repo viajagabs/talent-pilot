@@ -4,7 +4,7 @@ Copilot designado a validar área, cidade e posições disponíveis com base em 
 
 # Objetivo do Projeto 🚀
 
-Este copiloto foi desenvolvido para:
+Este copilot foi desenvolvido para:
 
 - Acelerar consultas internas;
 
@@ -16,7 +16,7 @@ Este copiloto foi desenvolvido para:
 
 # Visão Geral 🧠
 
-Este copiloto foi criado no AI Foundry com o objetivo de responder perguntas sobre vagas disponíveis no processo de Relocation 2026 da empresa, usando exclusivamente os dados contidos na planilha:
+Este copilot foi criado no AI Foundry com o objetivo de responder perguntas sobre vagas disponíveis no processo de Relocation 2026 da empresa, usando exclusivamente os dados contidos na planilha:
 
 [Relocation – 2026.csv](https://github.com/viajagabs/talent-pilot/blob/main/Relocation%20-%202026.pdf)
 
@@ -109,7 +109,7 @@ Perguntas válidas:
 
 - Evite perguntas abertas que não podem ser respondidas com sim/não.
 
-# Passo a passo da criação do copilot 🧪
+# Passo a passo da criação do Copilot 🧪
 
 - Criação de recurso no AI Foundry;
 - [Criação do projeto;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%201.png)
