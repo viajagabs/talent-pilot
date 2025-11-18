@@ -18,7 +18,7 @@ Este copiloto foi desenvolvido para:
 
 Este copiloto foi criado no AI Foundry com o objetivo de responder perguntas sobre vagas disponíveis no processo de Relocation 2026 da empresa, usando exclusivamente os dados contidos na planilha:
 
-Relocation – 2026.csv
+[Relocation – 2026.csv](https://github.com/viajagabs/talent-pilot/blob/main/Relocation%20-%202026.pdf)
 
 O modelo utiliza RAG (Retrieval-Augmented Generation) para buscar informações reais da planilha, garantindo respostas objetivas, confiáveis e sem alucinações.
 
@@ -28,7 +28,7 @@ O output do copiloto é sempre:
 
 - não
 
-não encontrado na planilha
+- não encontrado na planilha
 
 # Fonte de Dados (RAG) 🗂️
 
@@ -44,7 +44,7 @@ A planilha contém as seguintes colunas:
 
 - Posição
 
-Qtd
+- Qtd
 
 Cada linha representa um conjunto de vagas para uma posição específica, podendo operar em até três sedes diferentes.
 
@@ -52,9 +52,9 @@ Cada linha representa um conjunto de vagas para uma posição específica, poden
 
 O copilot:
 
-1. Recebe perguntas do usuário.
+1. Recebe perguntas do usuário;
 
-2. Consulta o RAG para localizar registros relevantes.
+2. Consulta o RAG para localizar registros relevantes;
 
 3. Compara as perguntas com os dados da planilha.
 
@@ -114,7 +114,6 @@ Perguntas válidas:
 - [Criação do projeto;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%201.png)
 - [Escolha do agente;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%202.png)
 - [Inclusão de  documento;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%204.png)
-- [Documento;](https://github.com/viajagabs/talent-pilot/blob/main/Relocation%20-%202026.pdf)
 - [Inclusão de prompt e descrição;](https://github.com/viajagabs/talent-pilot/blob/main/talent-pilot%20passo%205.png)
 - [Testando o copilot](https://github.com/viajagabs/talent-pilot/blob/main/teste%203%20ai.png)
 
