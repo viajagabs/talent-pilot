@@ -108,4 +108,17 @@ Perguntas válidas:
 
 - Evite perguntas abertas que não podem ser respondidas com sim/não.
 
-  Testando o Copilot 🧪
+# Passo a passo da criação do copilot 🧪
+
+- Criação de recurso no AI Foundry;
+- Criação do projeto;
+- Inclusão de prompt, descrição e documento; 
+- Testando o Copilot
+
+  # Referências
+
+  - [AI Foundry na prática](https://github.com/Miyake-Diogo/AzureFrontierGirls-AI-Challenge/blob/main/Aula%201/Azure_AI_Foundry_na_Pratica.md)
+
+  
+
+  
